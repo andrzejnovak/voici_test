@@ -6,3 +6,6 @@ dependencies:
   - numpy 
   - matplotlib
   - ipympl
+  - ipympl
+  - ipyleaflet
+  - jsonschema=4.17.0

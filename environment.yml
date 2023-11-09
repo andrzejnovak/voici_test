@@ -9,5 +9,6 @@ dependencies:
   - vector =1.1.1.post1
   - numpy =1.25.2
   - matplotlib-base =3.5.2
+  - mplhep-data =0.0.3
   - mplhep =0.3.28
   - uproot-base =5.0.12
